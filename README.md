@@ -1,2 +1,2 @@
 # Trainings
-Trainings for Github members 
+Trainings for Devon members 
